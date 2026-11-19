@@ -1,0 +1,22 @@
+{
+	"geode": "6.0.0-alpha.2",
+	"gd": {
+		"win": "*",
+		"android": "*",
+		"mac": "*",
+		"ios": "*"
+	},
+	"id": "slideglide.unlock-icons",
+	"name": "Unlock Icons",
+	"version": "v1.0.0",
+    "early-load": true,
+	"developer": "slideglide",
+	"description": "Unlocks all icons in the game",
+    "settings": {
+        "enabled": {
+            "name": "Enabled",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
